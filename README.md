@@ -29,7 +29,8 @@
 27、如何搭建一个独立博客——简明 Github Pages与 jekyll 教程:http://cnfeat.com/blog/2014/05/10/how-to-build-a-blog/<br><br>
 28、前端开发规范手册：http://zhibimo.com/read/Ashu/front-end-style-guide/index.html<br><br>
 29、移动端网页触摸内容滑动js插件：https://github.com/nolimits4web/swiper/<br><br>
-
+30、移动Web开发技巧汇总：http://www.html-js.com/article/Front-end-sharing%202983<br><br>
+31、从网易与淘宝的font-size思考前端设计稿与工作流：http://www.codeceo.com/article/font-size-web-design.html<br><br>
 <h3>其他</h3>
 1、【完结】老外亲口传授17元泡妞术，拆那女孩请不要...：http://www.douban.com/group/topic/29090014/<br><br>
 2、微信对话 在线微信对话转账生成器 微信转账在线生成_支付宝转账成功图片生成器：http://www.weixinduihua.com/<br><br>
