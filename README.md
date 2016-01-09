@@ -27,6 +27,8 @@
 25、【原创】移动端高清、多屏适配方案：http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041<br><br>
 26、前端技术博客(梦想天空)：http://www.cnblogs.com/lhb25/<br><br>
 27、如何搭建一个独立博客——简明 Github Pages与 jekyll 教程:http://cnfeat.com/blog/2014/05/10/how-to-build-a-blog/<br><br>
+28、前端开发规范手册：http://zhibimo.com/read/Ashu/front-end-style-guide/index.html<br><br>
+29、移动端网页触摸内容滑动js插件：https://github.com/nolimits4web/swiper/<br><br>
 
 <h3>其他</h3>
 1、【完结】老外亲口传授17元泡妞术，拆那女孩请不要...：http://www.douban.com/group/topic/29090014/<br><br>
