@@ -34,6 +34,7 @@
 32、Framework7特色的HTML框架 创建精美的iOS应用：http://framework7.taobao.org/<br><br>
 33、如何建立一套 UI 设计规范？：http://www.zhihu.com/question/29936125<br><br>
 34、响应式设计效果Responsive Patterns:http://bradfrost.github.io/this-is-responsive/patterns.html<br><br>
+35、国外网站:https://www.smashingmagazine.com/<br><br>
 <h3>其他</h3>
 1、【完结】老外亲口传授17元泡妞术，拆那女孩请不要...：http://www.douban.com/group/topic/29090014/<br><br>
 2、微信对话 在线微信对话转账生成器 微信转账在线生成_支付宝转账成功图片生成器：http://www.weixinduihua.com/<br><br>
