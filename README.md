@@ -46,6 +46,7 @@
 44、腾讯设计导航：http://cdc.tencent.com/?category_name=ui<br><br>
 <h3>其他</h3>
 0、SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站：http://www.sec-wiki.com/<br><br>
+0、安全圈info:http://www.anquanquan.info/<br><br>
 1、【完结】老外亲口传授17元泡妞术，拆那女孩请不要...：http://www.douban.com/group/topic/29090014/<br><br>
 2、微信对话 在线微信对话转账生成器 微信转账在线生成_支付宝转账成功图片生成器：http://www.weixinduihua.com/<br><br>
 3、新榜——中国新媒体第一站：http://newrank.cn/<br><br>
