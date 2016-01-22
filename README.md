@@ -44,6 +44,7 @@
 42、夏天的森林 技术博客:http://www.cnblogs.com/sharpxiajun/category/325366.html<br><br>
 43、火狐开发者文档：https://developer.mozilla.org/zh-CN/docs/Web<br><br>
 44、腾讯设计导航：http://cdc.tencent.com/?category_name=ui<br><br>
+45、给 Web 开发者的 25 款最有用的 AngularJS 工具:http://www.oschina.net/news/60200/bestl-angularjs-tools<br><br>
 <h3>其他</h3>
 0、SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站：http://www.sec-wiki.com/<br><br>
 0、安全圈info:http://www.anquanquan.info/<br><br>
