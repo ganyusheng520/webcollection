@@ -47,6 +47,7 @@
 45、给 Web 开发者的 25 款最有用的 AngularJS 工具:http://www.oschina.net/news/60200/bestl-angularjs-tools<br><br>
 46、Developing a Large Scale Application with a Single Page Application (SPA) using AngularJS:http://www.codeproject.com/Articles/808213/Developing-a-Large-Scale-Application-with-a-Single<br><br>
 47、Yeoman官方教程：用Yeoman和AngularJS做Web应用:http://blog.jobbole.com/65399/<br><br>
+48、jquery之家:http://www.htmleaf.com/<br><br>
 <h3>其他</h3>
 0、SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站：http://www.sec-wiki.com/<br><br>
 0、安全圈info:http://www.anquanquan.info/<br><br>
