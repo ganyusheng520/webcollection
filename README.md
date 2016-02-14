@@ -49,6 +49,9 @@
 47、Yeoman官方教程：用Yeoman和AngularJS做Web应用:http://blog.jobbole.com/65399/<br><br>
 48、jquery之家:http://www.htmleaf.com/<br><br>
 49、jQuery简单且功能强大的图片剪裁插件:http://www.htmleaf.com/jQuery/Image-Effects/201504211716.html<br><br>
+<h3>设计</h3>
+1、牛大拿设计师导航：http://www.niudana.com/<br><br>
+2、设计师网址导航：http://www.hao.uisdc.com/<br><br>
 <h3>其他</h3>
 0、SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站：http://www.sec-wiki.com/<br><br>
 0、安全圈info:http://www.anquanquan.info/<br><br>
