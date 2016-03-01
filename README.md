@@ -50,6 +50,8 @@
 48、jquery之家:http://www.htmleaf.com/<br><br>
 49、jQuery简单且功能强大的图片剪裁插件:http://www.htmleaf.com/jQuery/Image-Effects/201504211716.html<br><br>
 50、React-Native学习指南:https://github.com/ele828/react-native-guide#%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99<br><br>
+51、Demos of open web technologies:https://developer.mozilla.org/zh-CN/docs/Web/Demos_of_open_web_technologies<br><br>
+52、HTML5照片编辑器SDK:https://www.photoeditorsdk.com/<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>设计</h3>
