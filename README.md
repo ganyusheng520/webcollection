@@ -1,6 +1,6 @@
 <h2>技术网站收集</h2>
 <h3>前端</h3>
-1、Build HTML5 Mobile Apps with Bootstrap and Angular JS  http://mobileangularui.com/ <br><br>
+1、Build HTML5 Mobile Apps with Bootstrap and Angular JS(web ui框架)  http://mobileangularui.com/ <br><br>
 2、Smooth scrolling for the web https(web上下拉刷新组件) http://github.com/cubiq/iscroll/  <br><br>
 3、Parse CSS and add vendor prefixes to rules by Can I Use(CSS前缀处理):https://github.com/postcss/autoprefixer <br><br>
 4、Github前端资源收集:http://web.jobbole.com/83366/ <br><br>
@@ -31,7 +31,7 @@
 29、移动端网页触摸内容滑动js插件：https://github.com/nolimits4web/swiper/<br><br>
 30、移动Web开发技巧汇总：http://www.html-js.com/article/Front-end-sharing%202983<br><br>
 31、从网易与淘宝的font-size思考前端设计稿与工作流：http://www.codeceo.com/article/font-size-web-design.html<br><br>
-32、Framework7特色的HTML框架 创建精美的iOS应用：http://framework7.taobao.org/<br><br>
+32、Framework7特色的HTML框架 创建精美的iOS应用(web ui框架)：http://framework7.taobao.org/<br><br>
 33、如何建立一套 UI 设计规范？：http://www.zhihu.com/question/29936125<br><br>
 34、响应式设计效果Responsive Patterns:http://bradfrost.github.io/this-is-responsive/patterns.html<br><br>
 35、使用Flexible实现手淘H5页面的终端适配：https://github.com/amfe/article/issues/17<br><br>
@@ -49,9 +49,10 @@
 47、Yeoman官方教程：用Yeoman和AngularJS做Web应用:http://blog.jobbole.com/65399/<br><br>
 48、jquery之家:http://www.htmleaf.com/<br><br>
 49、jQuery简单且功能强大的图片剪裁插件:http://www.htmleaf.com/jQuery/Image-Effects/201504211716.html<br><br>
-50、React-Native学习指南:https://github.com/ele828/react-native-guide#%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99<br><br>
+50、React-Native学习指南:https://github.com/ele828/react-native-guide<br><br>
 51、Demos of open web technologies:https://developer.mozilla.org/zh-CN/docs/Web/Demos_of_open_web_technologies<br><br>
 52、HTML5照片编辑器SDK:https://www.photoeditorsdk.com/<br><br>
+53、Build mobile apps with simple HTML‚ CSS‚ and JS components(web ui框架):http://goratchet.com/<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>设计</h3>
