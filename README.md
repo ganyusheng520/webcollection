@@ -56,6 +56,7 @@
 54、轻量，小巧且精美的UI库方便迅速搭建手机H5应用(移动端web ui框架)：http://m.sui.taobao.org/<br><br>
 55、ANT DESIGN 一个 UI 设计语言(蚂蚁金服):http://ant.design/<br><br>
 56、最好的讲Angular原理的文章系列：http://teropa.info/<br><br>
+57、Parse, validate, manipulate, and display dates in JavaScript.:http://momentjs.com/<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>设计</h3>
