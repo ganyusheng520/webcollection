@@ -57,6 +57,9 @@
 55、ANT DESIGN 一个 UI 设计语言(蚂蚁金服):http://ant.design/<br><br>
 56、最好的讲Angular原理的文章系列：http://teropa.info/<br><br>
 57、Parse, validate, manipulate, and display dates in JavaScript.:http://momentjs.com/<br><br>
+58、365种创业、办公、和生活成长的精华资源:http://get.ftqq.com/7812.get<br><br>
+59、GitHub上整理的一些工具，求补充 :http://get.ftqq.com/6661.get#<br><br>
+60、技术博客分享：https://top9.cc/<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>设计</h3>
