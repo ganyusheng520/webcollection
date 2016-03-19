@@ -65,6 +65,7 @@
 <h3>设计</h3>
 1、牛大拿设计师导航：http://www.niudana.com/<br><br>
 2、设计师网址导航：http://www.hao.uisdc.com/<br><br>
+3、少数派，发现优质应用：http://sspai.com/<br><br>
 <h3>其他</h3>
 0、SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站：http://www.sec-wiki.com/<br><br>
 0、安全圈info:http://www.anquanquan.info/<br><br>
