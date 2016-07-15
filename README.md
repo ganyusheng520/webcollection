@@ -61,7 +61,7 @@
 59、GitHub上整理的一些工具，求补充 :http://get.ftqq.com/6661.get#<br><br>
 60、技术博客分享：https://top9.cc/<br><br>
 61、收集angular构建的网站：https://www.madewithangular.com/#/<br><br>
-62、http://www.telerik.com/<br><br>
+62、开发工具集:http://www.telerik.com/<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>设计</h3>
