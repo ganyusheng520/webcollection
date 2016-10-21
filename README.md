@@ -64,6 +64,7 @@
 62、开发工具集:http://www.telerik.com/<br><br>
 63、Ngrok for Wechat development：http://ngrok.2bdata.com/<br><br>
 64、移动前端不得不了解的HTML5 head 头标签（2016最新版）:http://www.css88.com/archives/6410<br><br>
+65、前端教程&开发模块化/规范化/工程化/优化&工具/调试&值得关注的博客/Git&面试-资源汇总:https://segmentfault.com/a/1190000007062464<br><br>
 
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
