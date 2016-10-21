@@ -63,6 +63,7 @@
 61、收集angular构建的网站：https://www.madewithangular.com/#/<br><br>
 62、开发工具集:http://www.telerik.com/<br><br>
 63、Ngrok for Wechat development：http://ngrok.2bdata.com/<br><br>
+64、移动前端不得不了解的HTML5 head 头标签（2016最新版）:http://www.css88.com/archives/6410<br><br>
 
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
