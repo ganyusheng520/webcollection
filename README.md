@@ -68,6 +68,7 @@
 66、最全前端资源汇集：https://segmentfault.com/a/1190000004978770<br><br>
 67、触碰jQuery：AJAX异步详解：http://www.cnblogs.com/heyuquan/archive/2013/05/13/js-jquery-ajax.html<br><br>
 68、CSS Reference: a free visual guide to the most popular CSS properties http://cssreference.io<br><br>
+69、js常用正则表达式：https://projects.lukehaas.me/regexhub/<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>设计</h3>
