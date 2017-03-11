@@ -73,6 +73,7 @@
 71、前端博客：http://www.xuanfengge.com/<br><br>
 72、javascript硬件开发：https://ruff.io/zh-cn/<br><br>
 73. Grid 布局完全指南:https://segmentfault.com/a/1190000008299555<br><br>
+74.年后跳槽如何准备：http://www.cnblogs.com/jikey/p/5201185.html<br><br>
 
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
