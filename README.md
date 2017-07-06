@@ -74,6 +74,9 @@
 72、javascript硬件开发：https://ruff.io/zh-cn/<br><br>
 73. Grid 布局完全指南:https://segmentfault.com/a/1190000008299555<br><br>
 74.年后跳槽如何准备：http://www.cnblogs.com/jikey/p/5201185.html<br><br>
+75.The Inner Workings Of Virtual DOM：https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf<br><br>
+76.How to write your own Virtual DOM:https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060<br><br>
+77.How Browsers Work:https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/<br><br>
 
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
