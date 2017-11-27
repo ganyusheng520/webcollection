@@ -84,13 +84,8 @@
 1、Kali Linux 工具使用中文说明书：https://www.hackfun.org/kali-tools/kali-tools-zh.html<br><br>
 2、Kali Linux渗透测试: http://edu.aqniu.com/course/83/reviews/<br><br>
 3、Kali的开发团队offensive-security的官方课程:https://www.offensive-security.com<br><br>
-<h3>设计</h3>
-0、SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站：http://www.sec-wiki.com/<br><br>
-0、安全圈info:http://www.anquanquan.info/<br><br>
-1、牛大拿设计师导航：http://www.niudana.com/<br><br>
-2、设计师网址导航：http://www.hao.uisdc.com/<br><br>
-3、少数派，发现优质应用：http://sspai.com/<br><br>
-<h3>其他</h3>
-2、微信对话 在线微信对话转账生成器 微信转账在线生成_支付宝转账成功图片生成器：http://www.weixinduihua.com/<br><br>
-3、新榜——中国新媒体第一站：http://newrank.cn/<br><br>
+4、SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站：http://www.sec-wiki.com/<br><br>
+5、安全圈info:http://www.anquanquan.info/<br><br>
+  <h3>免费电子书</h3>
+1.Learning JavaScript Design Patterns: https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html#introduction<br><br>
 
