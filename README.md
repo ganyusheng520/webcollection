@@ -87,5 +87,7 @@
 4、SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站：http://www.sec-wiki.com/<br><br>
 5、安全圈info:http://www.anquanquan.info/<br><br>
   <h3>免费电子书</h3>
-1.Learning JavaScript Design Patterns: https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html#introduction<br><br>
+1、Learning JavaScript Design Patterns: https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html#introduction<br><br>
+  2、Speaking JavaScript: An In-Depth Guide for Programmers:http://speakingjs.com/<br><br>
+  
 
