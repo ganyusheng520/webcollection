@@ -78,6 +78,7 @@
 76.How to write your own Virtual DOM:https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060<br><br>
 77.How Browsers Work:https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/<br><br>
 78.Monitor for any changes in your node.js application and automatically restart the server：http://nodemon.io/<br><br>
+79.Stop guessing why bugs happen: https://logrocket.com/<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>安全</h3>
