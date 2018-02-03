@@ -79,6 +79,7 @@
 77.How Browsers Work:https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/<br><br>
 78.Monitor for any changes in your node.js application and automatically restart the server：http://nodemon.io/<br><br>
 79.Stop guessing why bugs happen: https://logrocket.com/<br><br>
+80.使用 AMD、CommonJS 及 ES Harmony 编写模块化的 JavaScript: http://justineo.github.io/singles/writing-modular-js/<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>安全</h3>
