@@ -81,6 +81,7 @@
 79.Stop guessing why bugs happen: https://logrocket.com/<br><br>
 80.使用 AMD、CommonJS 及 ES Harmony 编写模块化的 JavaScript: http://justineo.github.io/singles/writing-modular-js/<br><br>
 81.国外优秀博客：https://iamakulov.com/<br><br>
+82.How to Dockerize a Node.js application: https://buddy.works/guides/how-dockerize-node-application<br><br>
 <h3>java</h3>
 1、jsoup: Java HTML Parser(java解析html):http://jsoup.org/<br><br>
 <h3>安全</h3>
